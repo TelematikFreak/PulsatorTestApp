@@ -1,0 +1,6 @@
+framework module Pods_PulsatorTestApp {
+  umbrella header "Pods-PulsatorTestApp-umbrella.h"
+
+  export *
+  module * { export * }
+}
